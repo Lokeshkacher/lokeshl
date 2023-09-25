@@ -1,0 +1,3 @@
+a,b,c,r,z,=[int(x)for x in input(enter five no.s).split.()]
+print("average"(a+b+c+r+z/s))
+enter the number: 55 64 66 55 32
